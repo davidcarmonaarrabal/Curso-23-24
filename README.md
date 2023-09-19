@@ -41,6 +41,6 @@
 - [Sánchez Moreno, David](https://github.com/davidsm14) :octocat: `davidsm14`
 - [Sánchez Pino, Gerardo](https://github.com/) :octocat: ``
 - [Torres Castro, Francisco de Borja](https://github.com/ftorcas3110) :octocat: `ftorcas3110`
-- [Zurera Leiva, Carlos](https://github.com/leivaa81) :octocat: `leivaa81`
+- [Zurera Leiva, Carlos](https://github.com/leiva81) :octocat: `leiva81`
 - []() :octocat: ``
 - []() :octocat: ``
