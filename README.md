@@ -11,12 +11,10 @@
 - [Carrasco Carmona, Carlos](https://github.com/meigemn) :octocat: `meigemn`
 - [Carrasco Castellano, Alejandro](https://github.com/) :octocat: ``
 - [Espejo Rosal, Rafael](https://github.com/) :octocat: ``
-- [Jiménez Raya, Aurora](https://github.com/) :octocat: ``
 - [Lozano García, Rubén María](https://github.com/ambrosio72) :octocat: `ambrosio72`
 - [Priego López, Antonio](https://github.com/CopyCatMe) :octocat: `CopyCatMe`
 - [Rivas Cano, Ismael](https://github.com/Ismael-Rvas) :octocat: `Ismael-Rvas`
 - [Ruano Ruiz, Ana](https://github.com/arr1790) :octocat: `arr1790`
-- [Sánchez Serena, José Raúl](https://github.com/) :octocat: ``
 - [Serrano Portillo, Daniel Euripides](https://github.com/danieu0902) :octocat: `danieu0902`
 - [Sorokina , Daria](https://github.com/DariaSorokinaD) :octocat: `DariaSorokinaD`
 
