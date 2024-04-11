@@ -6,7 +6,7 @@
 
 - [Alguacil Espejo, Antonio Jesús](https://github.com/ajenp2001) :octocat: `ajenp2001`
 - [Caballero Ruiz, Adrián](https://github.com/) :octocat: ``
-- [Cabeza Reinoso, José](https://github.com/Joseply1) :octocat: `Joseply1`
+- [Cabeza Reinoso, José](https://github.com/jply-xyz) :octocat: `jply-xyz`
 - [Carmona Arrabal, David](https://github.com/) :octocat: ``
 - [Carrasco Carmona, Carlos](https://github.com/meigemn) :octocat: `meigemn`
 - [Carrasco Castellano, Alejandro](https://github.com/) :octocat: ``
