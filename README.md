@@ -4,7 +4,7 @@
 
 ### 1º DAW
 
-- [Alguacil Espejo, Antonio Jesús](https://github.com/ajenp2001) :octocat: `ajenp2001`
+- [Alguacil Espejo, Antonio Jesús](https://github.com/ajrepos) :octocat: `ajrepos`
 - [Caballero Ruiz, Adrián](https://github.com/adrii05) :octocat: `adrii05`
 - [Cabeza Reinoso, José](https://github.com/jply-xyz) :octocat: `jply-xyz`
 - [Carmona Arrabal, David](https://github.com/davidcarmonaa) :octocat: `davidcarmonaa`
